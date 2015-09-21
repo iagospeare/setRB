@@ -47,7 +47,6 @@ end
 			button "Replace Set" do
 				string = ""
 				x = @imageList.length
-				alert("#{x}")	
 				i = 0
 
 				x.times do
